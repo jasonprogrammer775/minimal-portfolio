@@ -7,7 +7,7 @@ function Footer() {
 					<div>
 						<div className="flex flex-wrap justify-center gap-2">
 							<a 
-								href="https://twitter.com/forrestpknight"
+								href="https://twitter.com/Jayprogrammer1"
 								className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full">
 								<svg
 									className="w-5 h-5 fill-current"
@@ -19,7 +19,7 @@ function Footer() {
 								</svg>
 							</a>
 							<a 
-								href="https://linkedin.com/in/forrestpknight"
+								href="https://www.linkedin.com/in/jay-developer-809871205/"
 								className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full">
 								<svg
 								className="w-5 h-5 fill-current"
@@ -33,7 +33,7 @@ function Footer() {
 								</svg>
 							</a>
 							<a
-								href="https://youtube.com/fknight"
+								href="https://www.youtube.com/channel/UC_oo74IhOQXVzXZy_buTVAw"
 								className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full">
 								<svg
 								className="w-5 h-5 fill-current"
@@ -44,7 +44,7 @@ function Footer() {
 								</svg>
 							</a>
 							<a 
-								href="https://github.com/forrestknight"
+								href="https://github.com/jasonprogrammer775"
 								className="bg-stone-400 p-2 font-semibold text-white inline-flex items-center space-x-2 rounded-full">
 								<svg
 								xmlns="http://www.w3.org/2000/svg"
@@ -69,7 +69,7 @@ function Footer() {
 					</div>
 				</div>
 			<p className="text-sm mt-2  opacity-50">
-				&copy; {new Date().getFullYear()} Forrest Knight. All rights reserved.
+				&copy; {new Date().getFullYear()} Jay. All rights reserved.
 			</p>
 		</div>
 	);

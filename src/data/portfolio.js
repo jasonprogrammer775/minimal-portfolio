@@ -1,20 +1,20 @@
 export default [
    {
-      title: 'Terminal Website',
-      imgUrl: '/assets/terminal-website.jpg',
+      title: 'Website',
+      imgUrl: '/assets/e.jpg',
       stack: ['HTML', 'CSS', 'JavaScript'],
-      link: 'https://fkcodes.com',
+      link: 'https://dev.to/jasonprogrammer775',
    },
    {
       title: 'Developer Portfolio',
-      imgUrl: '/assets/dev-portfolio.jpg',
+      imgUrl: '/assets/d.png',
       stack: ['React', 'Tailwind', 'Vite'],
-      link: 'https://thehackershideout.com',
+      link: 'https://github.com/jasonprogrammer775',
    },
    {
-      title: 'AI Nerf Gun',
-      imgUrl: '/assets/ai-nerf-gun.jpg',
-      stack: ['Python', 'C++', 'Robotics'],
-      link: 'https://youtu.be/A8eegxL82PI',
+      title: 'Games',
+      imgUrl: '/assets/a.png',
+      stack: ['C#', 'C++', 'Unity','Blender'],
+      link: 'https://www.youtube.com/channel/UC_oo74IhOQXVzXZy_buTVAw',
    },
 ]
